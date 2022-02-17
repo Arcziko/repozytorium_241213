@@ -1,0 +1,3 @@
+"E:\Pliki Instalacyjne\CLion-2021.2.2.win\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\repozytorium_241213.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\repozytorium_241213.dir/objects.a @CMakeFiles\repozytorium_241213.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\repozytorium_241213.dir/objects.a -Wl,--no-whole-archive -o repozytorium_241213.exe -Wl,--out-implib,librepozytorium_241213.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\repozytorium_241213.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+C:/Users/Arczi/CLionProjects/repozytorium_241213/cmake-build-debug/CMakeFiles/repozytorium_241213.dir
+C:/Users/Arczi/CLionProjects/repozytorium_241213/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Arczi/CLionProjects/repozytorium_241213/cmake-build-debug/CMakeFiles/rebuild_cache.dir
